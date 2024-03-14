@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Script : MonoBehaviour
 {
+    // Какой-то комментарий
     public float speed = 1f;
     public float jumpForce = 5f;
     bool Jump = false;
